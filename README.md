@@ -20,7 +20,7 @@ Apasionado por el desarrollo de software, la inteligencia artificial y los siste
 - 🔭 Actualmente trabajando en proyectos de **IA y visión por computadora**
 - 🌱 Aprendiendo más sobre **aprendizaje por refuerzo** y **cloud computing**
 - 💡 Interesado en **sistemas operativos**, **automatización** y **desarrollo web**
-- 📫 Contáctame: [Tu email aquí]
+- 📫 Contáctame: jmflorezrobledo@gmail.com
 
 ---
 
