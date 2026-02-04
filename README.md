@@ -1,12 +1,11 @@
 <div align="center">
   
-#  Juan Manuel Flórez Robledo
-
-###  Estudiante de Ingeniería de Sistemas | Universidad EAFIT
-###  Medellín, Colombia | 7mo Semestre
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Juan%20Manuel%20Flórez&fontSize=40&fontAlignY=35&animation=twinkling&fontColor=gradient" />
 </div>
+###  Estudiante de Ingeniería de Sistemas | Universidad EAFIT
+###  Medellín, Colombia | 7mo Semestre
+
 [![GitHub followers](https://img.shields.io/github/followers/JuanmaFl?style=social)](https://github.com/JuanmaFl)
 [![GitHub stars](https://img.shields.io/github/stars/JuanmaFl?style=social)](https://github.com/JuanmaFl)
 
