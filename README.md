@@ -2,9 +2,11 @@
   
 #  Juan Manuel Flórez Robledo
 
-### 🎓 Estudiante de Ingeniería de Sistemas | Universidad EAFIT
-### 📍 Medellín, Colombia | 7mo Semestre
-
+###  Estudiante de Ingeniería de Sistemas | Universidad EAFIT
+###  Medellín, Colombia | 7mo Semestre
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Juan%20Manuel%20Flórez&fontSize=40&fontAlignY=35&animation=twinkling&fontColor=gradient" />
+</div>
 [![GitHub followers](https://img.shields.io/github/followers/JuanmaFl?style=social)](https://github.com/JuanmaFl)
 [![GitHub stars](https://img.shields.io/github/stars/JuanmaFl?style=social)](https://github.com/JuanmaFl)
 
@@ -12,7 +14,7 @@
 
 ---
 
-## 🚀 Sobre mí
+## Sobre mí
 
 Apasionado por el desarrollo de software, la inteligencia artificial y los sistemas operativos. Me encanta resolver problemas complejos y crear soluciones innovadoras que impacten positivamente.
 
@@ -23,7 +25,7 @@ Apasionado por el desarrollo de software, la inteligencia artificial y los siste
 
 ---
 
-## 🛠️ Tecnologías y Herramientas
+## Tecnologías y Herramientas
 
 ### Lenguajes de Programación
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
@@ -67,7 +69,7 @@ Apasionado por el desarrollo de software, la inteligencia artificial y los siste
 
 ---
 
-## 🌟 Proyectos Destacados
+## Proyectos Destacados
 
 ### 🗺️ [Travel Recommendations AI](link-al-repo)
 Aplicación web que utiliza inteligencia artificial para generar recomendaciones personalizadas de viajes. Implementa modelos de ML para análisis de preferencias y generación de rutas optimizadas.
@@ -88,23 +90,10 @@ Agente inteligente entrenado con YOLO para reconocimiento de ingredientes de coc
 
 **Tech Stack:** Python, PyTorch, YOLO, OpenCV, Reinforcement Learning
 
----
-
-## 📊 Estadísticas de GitHub
-
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JuanmaFl&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuanmaFl&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JuanmaFl&theme=tokyonight&hide_border=true)
-
-</div>
 
 ---
 
-## 🏆 Logros de GitHub
+##  Logros de GitHub
 
 <div align="center">
   
@@ -121,7 +110,7 @@ Agente inteligente entrenado con YOLO para reconocimiento de ingredientes de coc
 
 ---
 
-## 🌐 Conéctate conmigo
+## Conéctate conmigo
 
 <div align="center">
   
@@ -136,11 +125,11 @@ Agente inteligente entrenado con YOLO para reconocimiento de ingredientes de coc
 
 <div align="center">
   
-### 💭 Quote of the Day
+### Quote of the Day
   
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-### 👀 Visitas al Perfil
+### Visitas al Perfil
 
 ![Visitor Count](https://profile-counter.glitch.me/JuanmaFl/count.svg)
 
