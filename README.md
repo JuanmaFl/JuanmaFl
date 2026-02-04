@@ -1,4 +1,4 @@
-<div align="center">
+
   
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Juan%20Manuel%20Flórez&fontSize=40&fontAlignY=35&animation=twinkling&fontColor=gradient" />
