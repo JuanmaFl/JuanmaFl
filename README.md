@@ -113,16 +113,11 @@ Agente inteligente entrenado con YOLO para reconocimiento de ingredientes de coc
   
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-### Visitas al Perfil
-
-![Visitor Count](https://profile-counter.glitch.me/JuanmaFl/count.svg)
-
-</div>
 
 ---
 
 <div align="center">
   
-**"El código es poesía"** ✨
+**"El código es poesía"** 
 
 </div>
