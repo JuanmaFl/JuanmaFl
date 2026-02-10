@@ -91,15 +91,7 @@ Agente inteligente entrenado con YOLO para reconocimiento de ingredientes de coc
 
 
 ---
-
-##  Logros de GitHub
-
-<div align="center">
-  
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=JuanmaFl&theme=tokyonight&no-frame=true&row=1&column=6)
-
-</div>
-
+>
 
 
 ## Conéctate conmigo
